@@ -6,6 +6,14 @@ class main00{
         System.out.printf("dsaadasd");
         System.out.printf("dsaasdadasd");
         
+        System.out.printf("dsaadasd");
+        System.out.printf("dsaadasd");
+        System.out.printf("dsaadasd");
+       System.out.printf("dsaadasd");
+       System.out.printf("dsaadasd");
+      System.out.printf("dsaadasd");
+      System.out.printf("dsaadasd");
+     System.out.printf("dsaadasd");
     }
 
 
